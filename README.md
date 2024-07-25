@@ -1,5 +1,6 @@
 # 💫 About Me:
-Mi trabajo se centra en la implementación estratégica de ciencia de datos e inteligencia artificial, con experiencia en machine learning, deep learning y otras disciplinas relacionadas. Me especializo en abordar problemas complejos mediante la aplicación de estas tecnologías avanzadas, aprovechando su potencial para optimizar procesos, generar insights significativos y ofrecer soluciones innovadoras.
+Especialista en la implementación estratégica de Ciencia de Datos e Intel-igencia Artificial, con sólida experiencia en Machine Learning, Deep Learning y otras disciplinas afines. Me destaco en la resolución de problemas complejos mediante la aplicación de tecnologías avanzadas, optimizando procesos, generando insights significativos y desarrollando soluciones innovadoras que impulsan el crecimiento y la eficiencia organizacional.
+
 
 
 # 💻 Tech Stack:
